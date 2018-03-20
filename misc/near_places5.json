@@ -1,0 +1,47 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4227535,
+               "lng" : 74.63155789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.42407817989272,
+                  "lng" : 74.63289652989272
+               },
+               "southwest" : {
+                  "lat" : 26.42137852010728,
+                  "lng" : 74.63019687010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8da49de0e0cb4f176536a687a49ee06217b89cba",
+         "name" : "Zoo-P Mens Wear",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109989233479582576906/photos\"\u003eNitin Maul\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAihgZP_GPxSnMi3c25mKMgoDLMqhtRZGbgjRUmCje83RIlFrk7iZMKMnMsuKteupcWZ9bUwKaAARa-64eWnh-QFNJPdqoqWnFk2Vrsr2tHI4EWNzRNzrhT9xZTWu4TzsBEhA0V5R36CUGLSLUetY7oCv1GhS0FZL36hgH43k5CAerUiZ07zjZSw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJRX7utdPgazkRaaYAgUzZsvw",
+         "rating" : 4.8,
+         "reference" : "CmRbAAAAiUo8nj3sw1ALIA4tYdYrvAFLjU0teQJ-3Ct_xFzfUVWUMEqE6gH3Pua_yIZj9o3I-T7iaL3EOY70UTNiOYw8phqJoQ5zr7Qx0TQGuG_RynP0NW3mJChfSb0kGeGkOe3zEhAQa22UCd29XhWnRPrZ8wmFGhQgF1rz3L8jYNLjmFpuGHZQDoLnwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "29, Taragarh Rd, New Ganesh Nagar, Taragarh Rd, New Ganesh Nagar, Lajpat Nagar, Ramganj, Ajmer"
+      }
+   ],
+   "status" : "OK"
+}

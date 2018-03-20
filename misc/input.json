@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ajmer",
+               "short_name" : "Ajmer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ajmer",
+               "short_name" : "Ajmer",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ajmer, Rajasthan, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.5252392,
+                  "lng" : 74.7021311
+               },
+               "southwest" : {
+                  "lat" : 26.3812472,
+                  "lng" : 74.56929629999999
+               }
+            },
+            "location" : {
+               "lat" : 26.4498954,
+               "lng" : 74.6399163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5252392,
+                  "lng" : 74.7021311
+               },
+               "southwest" : {
+                  "lat" : 26.3812472,
+                  "lng" : 74.56929629999999
+               }
+            }
+         },
+         "place_id" : "ChIJAc23_NjmazkR7gCB6xKPr8s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

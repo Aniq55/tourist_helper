@@ -1,0 +1,692 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.456118,
+               "lng" : 74.6282011
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45746782989272,
+                  "lng" : 74.62955092989272
+               },
+               "southwest" : {
+                  "lat" : 26.45476817010728,
+                  "lng" : 74.62685127010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d10c64b04ebc276207c8d206c6cf5267061943cb",
+         "name" : "Khawaja Gharib Nawaz Ajmer Urs 2018",
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108420439029792133578/photos\"\u003eAMIR IHSAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqKnK44GpytZd_x9jdiGuWutf0WKvbRQNemrNMZZkJFqAc_xUnAhzAp0Z0mhDmVY7iaSjsW-wpriCv6NTjj2uunWQ0bhEke33Bo0DnrosS7gphchk6wmFsUZqmj-Qvq7OEhCl9xlz4ZVWdOOz_PIy5HR0GhTAZKW05ZKBnFd75GanxVe3az98UA",
+               "width" : 604
+            }
+         ],
+         "place_id" : "ChIJGV0pphDnazkRO5ANkwKf2hc",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAAwkbUCKgWKglYIe2ZGsU_F6-e_BVnuP8z85KzLiAu9kcUGsLpPTDO1bjfoFNmXMbXnxSJM1uvjPpEHwkoCfp9AdNUBeD3UZbF2EW-dydtMNtkZpJ0RCXUMZYdqB6ATfWpEhDLrWI_Jv0zFijqQ0gK7bhPGhTUa31Mec2yar1Wk7CeKSywV-ITcw",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "111, Faiz Manzil, Nathwan Shah, Dargah Sharif, Khadim Mohalla, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4573487,
+               "lng" : 74.6458987
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45869852989271,
+                  "lng" : 74.64724852989272
+               },
+               "southwest" : {
+                  "lat" : 26.45599887010727,
+                  "lng" : 74.64454887010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "264fd7f0271d1941659cd603e1ede070e157be84",
+         "name" : "Shrine Khwaja Baba",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJFcjaCSDnazkRTlVKqzmWcx0",
+         "rating" : 5,
+         "reference" : "CmRbAAAAVYIKTdnTuaRTtwJnW-KXzcVxXh39_AQw1BFS3hvx93c3RVdZXe9v3rdV9wfQZrQbDRy9usrb-x8TLlyjrHrtE_GtGL8geATSNXNoTD3bCdG1wmuOVEowUTegofTq8KVvEhDiYF4jgnqFfuEmvp_SNe7vGhRG0rllw4d1Ukurqjj5-QEX1hCNWQ",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Zia House, Near GT. No. 5, Dargah Sharif, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4573487,
+               "lng" : 74.6458987
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45869852989271,
+                  "lng" : 74.64724852989272
+               },
+               "southwest" : {
+                  "lat" : 26.45599887010727,
+                  "lng" : 74.64454887010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "c5917ded70c0a6cd55276921156d07d0b1a86c4e",
+         "name" : "Sufi Shrine Ajmer",
+         "place_id" : "ChIJAQAAAOTmazkRlZpH6Zo-qHY",
+         "rating" : 1,
+         "reference" : "CmRbAAAATGKCarzrg74GVoAsgiI3TVExi2Tshl6OUo2jIqfvDLeWAqB-gFYitjRUbzlx4dw4anQhZO0xcg2_xwKD3PjDHAmjMo5V1uEH5LKLaeTKM-afXwIlyW8Mq0YjdZKTb8Y8EhDSuASWFvxo7wAlI0hojc19GhR5bIguOEXzTmVdcmm58FBUioGOxQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "H. No. 319 Nau Lakha Gali Lakhan Kothri Dargah Sharif, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.457047,
+               "lng" : 74.6280938
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45839682989272,
+                  "lng" : 74.62944362989272
+               },
+               "southwest" : {
+                  "lat" : 26.45569717010727,
+                  "lng" : 74.62674397010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5012547be66d6798b5cba941d74cc1c14ea68ed4",
+         "name" : "Gharib Nawaz Dargah (Shrine)",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117771427496627276137/photos\"\u003esyed zeeshan kaptan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALQXPKm9Olg-tenpSix_l9wz-ZxXjcS0i_Zu_i_ww14AX-tcguLektgveSvPB9eAz4M3pY59rThHQBJERCYcguR37kMe__qTGJsmlDWPpoW3nwEyCZ_JMZrJrde664DdnEhDmMLb3gaptzIeUTLW4WlaCGhTydqbbrju2Ir6S1kB7u4ycB1UUuA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJHfvknhDnazkRXlxsXirgwpo",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAA6ZGjrCDdykvLC89I0N4q9Ab7m3qm1Q9eDeyhY8p4M-7_u7R_XWSwCObCOJG85gCbWm7m0tK-5aednalSAJBg5SLRIWafvGlmZlPsnR2nt0bzHmHxLRxvI1yPc25yEanGEhCa-ClNPfNeONqK6pRRX7b9GhSFcFyAfgK-1KI1dNw7QX5vuqnVJA",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "gharib nawaz dargah, sharif zameer ahmed niyaz P 75 shaikha mohalla pannigram, Khadim Mohalla, Diggi Bazaar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.394877,
+               "lng" : 74.60672700000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.39622682989271,
+                  "lng" : 74.60807682989272
+               },
+               "southwest" : {
+                  "lat" : 26.39352717010727,
+                  "lng" : 74.60537717010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "69ff3525672e631dbb8fffebce1db503f7cf6cfc",
+         "name" : "Dargah Sufi Shahbaz Ali Quadri Chishty (R.A.)",
+         "photos" : [
+            {
+               "height" : 3216,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115732942751869938238/photos\"\u003eFiroz Khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALanYBv-UH0R5fZzUALWJcUif_DHZNTVsakb3AbH_bZIClESyjEF30OYdxGxownSMXRPsRO2qVQyt5muTxvgXbyDkAFIKXzgpzrRhUbztdU7TjzPp-5yicPyNVunNEnOZEhAAf51qEuNLnpLZMeTjIu0CGhQMpQttU_EUOjcnOw1oJagSfGFGKw",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJh460yJDgazkRXaTcmt0vpIE",
+         "rating" : 4.9,
+         "reference" : "CmRbAAAAJ5hNV9p7uuj7N9yaDhsavubNiQDlLhG84voya1SQLJE24kWHGSb63OHYYmJPUYQRNnvOEQyb155eh5AImqCn2nwgEdXBDSewrCamOGyFrkDWnKxLvhIcQxLdiuiiK34iEhAxyFGwZbkMby0O8ReHtoqeGhRmLoCRsn9pq8uLetVJhXATuvyUiQ",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Beawar road, Bakra Mandi, Daurai, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4207865,
+               "lng" : 74.59200229999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.42213632989272,
+                  "lng" : 74.59335212989271
+               },
+               "southwest" : {
+                  "lat" : 26.41943667010728,
+                  "lng" : 74.59065247010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0c67957f7e4d7bd0b7255f45c5a2a9d8114024c3",
+         "name" : "Baba Badam Shah",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109845750041492191498/photos\"\u003eMukesh Kr. Verma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkXG5ITA4Rk2yMe32667mphZ3l6bGerGIp2ETD5zpdVvx75816rg_OpJQ9U-TpINVRWOEkrOmO9fnN2tdAeM_QuY1qQe-quxZYScIg2t3XSOdmQOwdpFjB7BgvJxrqbAhEhBg3CZ0vwJUoKhMYR3kiZtaGhQ64ct3ll1r482QehLgGNu-sM7hsA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJybWAOQDeazkRwWKZJ3emZHk",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAA50BqaVKcVmPKXjcqlVHf2uj-WNIKq_coVqR71PJFPBML149z7Y6qx4kXBWuchR0BKpc5vnHvSVLu0OPCACbyYwdWoEZKvjr-UH2iIX2f1TFY0YCAwhZI76BGU5Il8-Z5EhD7bJpzKY7DYbtzgC-zoOHQGhSpvFJMZ4eeR2wJy3e0Hz1-4WEFvg",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Somalpur, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4569374,
+               "lng" : 74.62770279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45828722989272,
+                  "lng" : 74.62905262989271
+               },
+               "southwest" : {
+                  "lat" : 26.45558757010728,
+                  "lng" : 74.62635297010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "87af86271f9e2e98ae0271b5d7ab135e49619fb6",
+         "name" : "Ajmer Sharif Dargah",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115203873072395018947/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfqJLOz0A8kILHi-QYk6duwpUmBozt41ESdqi017GvOE1jsUCA5psCeva32wp4chI24V0noJC7bzXnhTIerjbUdaM60GbJq0OU9P9MJKt14fb-v2ku2IsNLPvsroSDuYjEhCFtsyh6PaLYmgYtiCBU4icGhTAIR1_uQMvcyU0913oe5N8espSyg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJN3bUkhnnazkRQT9GBClJALM",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAAQZYE0avZnQwrEBEv8Oo53phhS9NJmWVBy071UZGscyNLrxsTAgYiJVlnav0SpkYwCtzTv7U5vOty9mJ-GJVgdQ-YUoJKRnSKRZhzFetwbzXCZPD4898rxptFxuoIikIWEhAUzKDYgIe7TdanWdJUf46ZGhRtsEgE-x7fSg3Cr93F6LIROvgO8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Khwaja Zafar Chishty , Shekha mohalla Dargah Sharif, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.457019,
+               "lng" : 74.62815499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45836882989272,
+                  "lng" : 74.62950482989272
+               },
+               "southwest" : {
+                  "lat" : 26.45566917010728,
+                  "lng" : 74.62680517010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c3025ac93edb79dadd11cd289cae9662dd55689",
+         "name" : "Nizam Gate ajmer sharif",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103206828305536694560/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXUqRAJsfAe5y47tKdX1jN9N-QAkeP5Pd044M1kPLoJTQb2khm4ANhxJ0WMP1SY70UOplWUXHA7u_-O98jFmdjFbBYMsvFLD2G-ClT43-_81ye8SPviV_Lxy28PI3BujkEhCcDFI1IxdzR2lnY2IsNCduGhTrqsMM6QfL28XCpY8o9WAECgF7Kw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJtSP5nhDnazkRa2H27B0Q1ds",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAArrZLko98ah5gP7dGAWc0XtZ80NA3rEZ4S_0ddXFkaT1_DnIubG-WYl3tINvmQbjY3E66qhthCdJ-INJFB3mT5weFQrYMlfZGCBiQFPcahRt3gILYhdlaKOJQnnwNcQcfEhDgXkLaMAYyR2I8A9e-JlN-GhQrLF8CxCKAq9QaoAz_q5k8mMCRsA",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Khadim Mohalla, Dargah Bazar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4498954,
+               "lng" : 74.6399163
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45124522989272,
+                  "lng" : 74.64126612989271
+               },
+               "southwest" : {
+                  "lat" : 26.44854557010728,
+                  "lng" : 74.63856647010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6053703e5d15d10ac999a6062df201d5db516cc5",
+         "name" : "Dargah Ajmer",
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110038087624862381344/photos\"\u003eImran Shaikh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkxum8FcIFls-ok1pPw8Ho2QNC-K0DDQxT1OX4zQpku3iGf-A-WU57N1yFxAqdGZglW8ElVsfvrnH-QQn8B9W2xgyj7NaLAd6zxE_txaXVAFudcOdGwfOCLUH9CtCwpPbEhA6tfUb8wBMI8Uh3u8tFALQGhSjwdy1k41wzUuqrtTtFylgkKoLig",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJvQCPCSDnazkRtWZO2hwSueE",
+         "rating" : 3.7,
+         "reference" : "CmRbAAAARuBMyIVOKbXQyOaQFEQYlYCwfwBNQzcaqWEgl2ucRDP47GUF24jhNl1wrNV9OdqyJ0q-MsKKHqh1QB3j-JUjnTZkPB8duS6sB4_F2E-6Av85tePDxLLMIYyf-pXlK7kuEhDfOCnhd4Q98DX64FuzJOQdGhSIT9I-6LcFQQGXcrz_W7OGVx5tww",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Nalasopra, Railway Quarters, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.456812,
+               "lng" : 74.6277532
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45829072989272,
+                  "lng" : 74.62908937989273
+               },
+               "southwest" : {
+                  "lat" : 26.45559107010727,
+                  "lng" : 74.62638972010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fb08ab94ac1f7b4e69eb521ab80103dfb8f0bfc4",
+         "name" : "Sufi Sant Khwaja Moinuddin Chishti",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 492,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108420439029792133578/photos\"\u003eAMIR IHSAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcGE_fqtth1FWDfnWspw5V_C8oVbkJtG5a8PXS6RbiYE0BMQuxnBkGQzr9Nughkx6_f2UqdW-qCf9FH5G9Dv5SbsF5BD8TS1IcV2mq3UxoksVaAjM2X14IEAaQy4z1tg6EhAEd5SW4jpLRC7OQqbTq2grGhSlhUBgZuyrwD5-zc-xxj0cX9Dugg",
+               "width" : 599
+            }
+         ],
+         "place_id" : "ChIJyRl5mBDnazkRrMPLmuUFZSs",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAYtsxztrxB4twS_IsY7Bfbs0Ohl2vWiBU5iq10yjCPr24wV0_gPzifbdGSatCLoBdLOdIaW7GY2-4i7yZRUF7dbgUL2XB1r3evOFUsPmqKKE1Qbw0gYQ4JaGpEAs5wWGoEhDwTX_b3-dT6zXf2d72XAwEGhQAzWfdhQxa5OGbqDiL-bz4gcB-bg",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ander Kote Rd, Khadim Mohalla, Diggi Bazaar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4561594,
+               "lng" : 74.6284636
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45750922989271,
+                  "lng" : 74.62981342989272
+               },
+               "southwest" : {
+                  "lat" : 26.45480957010727,
+                  "lng" : 74.62711377010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f4512cd4483921ad65836eb8a6571f5d11915ec1",
+         "name" : "Syed Muqeem Chishty Khadim Dargah Ajmer Sharif",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101874858431341410800/photos\"\u003eSyed Muqeem\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlpRVHTSY-PE-ypW4JsZSkqF4hU9zZ766_S_xSjKubJ0ipS7IYKKIdBFcPmjdV0BmJRYBqGOguOK_ruTb1ulB2b78l95ameArkcG_GoY5B-hZviV09R62_fyBCLD_SR9wEhDwB5DeZ_G_ckezcBECo-YEGhQOO2q1KSLwriP2IwxnPfItjanVaQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJLfl3CBrnazkRSni9ohkCIWs",
+         "rating" : 3.8,
+         "reference" : "CmRbAAAA5elNWBSrP7I69Z9YFfl0P-9MQf8WJhy3r1kNliZ6gNtiBntLMcRs6-rYsGb3lcoI20nUEzEHMS5hIOix4aJ0tDJLbcRZ1Z13ZkYwEewJ-WtxmvVxRQrILQJKrKqcOXR9EhA3lTuaeV4JlA-T3vxOCCJNGhQJ5HeZ8plsQNxy8Euz05ZIlYM83Q",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Khadim Mohalla, Diggi Bazaar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4589311,
+               "lng" : 74.6306604
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.46028092989271,
+                  "lng" : 74.63201022989271
+               },
+               "southwest" : {
+                  "lat" : 26.45758127010727,
+                  "lng" : 74.62931057010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9c745c2b4acb600e7eb2259925233d2f6361e129",
+         "name" : "Khwaja Garib Nawaz Guest House",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101850125875885043618/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJstTrEy9Rqp1_ej-r0OOqYdw-Y8fIDAFAvfF6dqOZsOzcMIMenHoLAXDw7mQR2iBdW8UUtPV7veYGgozK8bbUR7iXQeji3cMqOWRv-RHx5qfVVLNOp-PQMSCdQPTnQwAEhCkjIr1WdnPbF-C9ykGo5FQGhQSfjtbRcKX5WJnS0nxfc3hbVqKLg",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJqfUX-hrnazkRM6y4OXg13gA",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAte-pCuuzfF_cW2W7Yya2GlWaUWd0Ky4tsONiYWWIC37BqZWYdGZYqpK905BRStk-VPw1vb7CvJcGey9g1tQqUtJJxnEu1fyvefRSr39n6Ximhnp6NVQgoPxEEdcldh2QEhAgcdgNyuin-R7BqVS8Y-agGhQ55Uxf_y5OedQ5dODqD1hrQtqPkg",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Dargah Khwaja Saheb, Gali Langar Khana, P.B. No 33, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4612735,
+               "lng" : 74.673619
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.46262332989272,
+                  "lng" : 74.67496882989273
+               },
+               "southwest" : {
+                  "lat" : 26.45992367010727,
+                  "lng" : 74.67226917010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4f0bdf72d509f09ca6e941a40f75a91f0495792f",
+         "name" : "Majar Shah Chilli",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114404052254545574937/photos\"\u003eNik&#39;s Journey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwyzssLJeLKD8GG8ErAtvVVi0UkXN2eWYqw6eyQOrcBCH0-1neftvYGIISJks7B8u3NJw7f11Mj96sKMhPaW7CtHCZgmymdmbmrOP4O7EOps4HvgT7e7KiH8A17uI-tqDEhDAZ50_sJT1twh_ctY9T634GhRj8W4hOY18JDudRbpRAm8Kyd-fyA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJbYmfx5DmazkRAlSdG_QOOAo",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAEp6grO9eO2jKXXahXt2Q8LWHVmVq8sqptk04eqk6CniVJG090ArtxoO_YmVAONoGc0me2kCuN6gTJS4tqSReCGtTTbUjAh5uVpPM5qVkiM2JOh0c55l5jxA8XUGeFhsCEhD0bdJKBiH1yUB6iP8qYmIgGhRYwl8XLG97-clyA2QRyRC1A-gAEw",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "J P Colony, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4566427,
+               "lng" : 74.62789429999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45799252989272,
+                  "lng" : 74.62924412989273
+               },
+               "southwest" : {
+                  "lat" : 26.45529287010728,
+                  "lng" : 74.62654447010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4af0b8be780c4deb5ca508c210838e9304489a48",
+         "name" : "Khwaja Garib Nawaz (R.A)",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104152832002288134290/photos\"\u003eMM Saiyed\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABrP18H4jh6hae-AfBTJwxo1DYFR6eFugklTBRU5yaOFzVWGsieQc4e7070hm5YF8Yf4iwEXyH8VUSf_InB41iIC6HnUTABAtffaQx00Dns-TKQBFtjUybep5nXBsHB2KEhCsdu2_HuPYiwwBzH_Z8qCgGhSSlZnjEAjqoVDVmIWH_pZt1bALfQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ47YtdhrnazkRULxWFr7RUqs",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAPL2z1W0F5b2ox57pVxN1KdgRU3iJubImJBSWSqcqMCaB5vRKWwvMJ6VAfQw8LeQIYPjhJWmXBsRS7TdknGeUGQAvN5ifOZ6Xh96Q1EVU3LKGdeit6BeCFvltz1VJsX6nEhCD069D2g8I-NpuMrBlAuNxGhTV5vPaipdZCX7_gsIZGpcj2M3yXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "73/20, Aftab House, Khadim Mohalla, Near Dargah Sharif, Diggi Bazar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.45741,
+               "lng" : 74.627633
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45875982989272,
+                  "lng" : 74.62898282989273
+               },
+               "southwest" : {
+                  "lat" : 26.45606017010728,
+                  "lng" : 74.62628317010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9334a4d15cfc28bbbb85625be908fa52136fef0c",
+         "name" : "S.S.H. Chishty, Diwan Sahab Ki Haweli",
+         "place_id" : "ChIJ2YuYmhDnazkRcY9uCRuznAs",
+         "rating" : 4.7,
+         "reference" : "CmRbAAAAVvbBZWODe8RNdQtTVfPwVv02BYyo_9ybPNEXLSiWTT0p12wouoF6-875TC6rRSCCbADlMRuxon68YR3SziJVENPqeWkSpTBk1f4GGujlLO29i8zhhU-nn0b95VJCOK4XEhAvfYc41Zs8kvjTgeI5BvHlGhSZrBeDIUuEw-r2afCM2Q-OPUrumg",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Lakhan Kothri, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4622088,
+               "lng" : 74.6545397
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.46355862989272,
+                  "lng" : 74.65588952989273
+               },
+               "southwest" : {
+                  "lat" : 26.46085897010728,
+                  "lng" : 74.65318987010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f42e1545135132b057f24135eb6cc7c882fb2c15",
+         "name" : "Zinda shah maZar",
+         "place_id" : "ChIJa7x6s-_mazkRqa0PGhdn0GM",
+         "rating" : 4,
+         "reference" : "CmRbAAAAWq7XDTauV4PMZezPRPUigPXrH52VhF-Jr9kDaU5hizplPid-vxBXuVe4QWv-shCXm3c8-m9p_l_wo_C5Eaiw01y_Ju4dc8WA667mfPVAaOnbvgyqZGI0qbHh1e2fBnjrEhClZypxX4Zp-Vwi4blkX1dyGhQEQ8cMazzepS6_VHQZdkjdfM806A",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kundan Nagar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4316508,
+               "lng" : 74.6116304
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.43300062989272,
+                  "lng" : 74.61298022989273
+               },
+               "southwest" : {
+                  "lat" : 26.43030097010728,
+                  "lng" : 74.61028057010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3523e1e4518559106005279f0764ee53a0f70971",
+         "name" : "TAQI SAIYED DARGAH",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101105635695690051244/photos\"\u003eK.N CHANNEL\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUadQ8LWC8ic4RAj4MCh0lFG056UO-8OHb7f8TlLSK9VZ_ukIJy4z8PokYzPmcOOvmZ8vyHdketO6Q_512xlcqO67UCx2Q8q_TmyJctsCYslnfAdfc77Subc5Mepr8S3jEhAdCkHR4oXowrhgOXk7AfbNGhS4fOjnlnZKVvSdXrYFpHtS2HdkLg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJJy_YRUnnazkRRfmSWh9MN08",
+         "rating" : 3.4,
+         "reference" : "CmRbAAAAH3IuPR9OrF9K4KHOTIh6QUSQmtBPv090CdvIxBXcoQnyGh9yg6-hrF8w_mPMDNf3ckdPu2VI3F-8FEvprO4Ho9OD4KZjUhKx02xxnAZi6bRy3n2CrEaFcrvNlnWiITWlEhDUuI08UfLNqbOAShT8oAwNGhTlNMehnuY-hCnNPhhpehPcplHoaA",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Taragarh Rd, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.3589859,
+               "lng" : 74.6513939
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.36033572989273,
+                  "lng" : 74.65274372989273
+               },
+               "southwest" : {
+                  "lat" : 26.35763607010728,
+                  "lng" : 74.65004407010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "38990b9b90b8c1486e2def7390aa49d1857b90f3",
+         "name" : "Shrine Gafoorshah Bawa",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108102102622278914073/photos\"\u003esuhel khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnxBh4RnE7GOqOJYZNCmaCLJz59u93xM-_C4NV5mNwyb-7X7AR4c9rfm9pvBT2WFwPpgyoIj6GGEGA6WOl7b0XsbYl1IMTCcUym_zh9OopLp3CF71VGe0k9sQpHnUqeEBEhC1li6JVWzBCt5bn816dNaDGhSeOH3mMkNoaVHAryZmD_RrFJPueQ",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJKXX2C8jhazkRXY6CEuiDFyY",
+         "reference" : "CmRbAAAAB5MdefmUN2TvbuU1PfCi2jlCmbfNGcmt6yn3Hy2-FQnXZwAnoa97ZY_jQNnW82-jlu1OmcoBlYD2Mb9joOuC5SYGQWs9iMSJDAwqNXlMGK2jT54LpZzoL6FmwybwGzhyEhDIjnMXwvEjQZkgp9bJCh3zGhSXTgAQuiaB1CghSEM7yQoBTszLlw",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Hatoondi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4547658,
+               "lng" : 74.62744119999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45611562989272,
+                  "lng" : 74.62879102989271
+               },
+               "southwest" : {
+                  "lat" : 26.45341597010728,
+                  "lng" : 74.62609137010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "dae2fee707065ab89fccb8f708949591965b6054",
+         "name" : "Dargah Zinda Shah Wali",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100917709562233058086/photos\"\u003eMubeen Raza Hashmati\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAR2vH8gjSyTGjwjURtXdMjswV8QULPMxp_9OqWmQRKJBJhfmqIoDBQD28vLtblA6C6Ln8a6ia9GBlCHBqGRdiCsRcUgr4NWFvqN7xqQXXODhC4z5wgPKVS94zDrSTpyomEhC5AibdAb-Xh2c51k8kofx8GhTtkZRjqXGAGY-SloLdNG6Ug6rQ8Q",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJEwSsTxfnazkRQWtUzpTY0RA",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAhachUrQCUPfkFN9815wE-mjG274HdZp0k4UrqL7v4F39LPR_ZH8V85rQgiSWTH5KYxhQulhzViHquHPWLLEbbvHvH7liU6h8o7o2w_NYw4DdQ-oDMDJXvPLSWzkk9nXFEhA9Tkk2b2h_pC7AXdFpnrWNGhSZcbGxYDjlulF2W0w0jwxtC5OAGQ",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Diggi Bazaar, Ajmer"
+      }
+   ],
+   "status" : "OK"
+}
